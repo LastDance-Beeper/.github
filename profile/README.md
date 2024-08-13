@@ -39,31 +39,28 @@ Test PW : 12
 
 ## 1. 개발 환경
 <br>
-- Front-End : Flutter
-- Back-End : Spring Boot, JPA, API 개발
-- AI : FastAPI, LangChain
-- 버전 및 이슈 관리 : Github, Github Issues, Github Project, Git-flow
-- 협업 툴 : Notion
-- Infra : GCP, Git, Docker, Jenkins
-- 디자인 : Figma
+- Front-End : Flutter   
+- Back-End : Spring Boot, JPA, API 개발   
+- AI : FastAPI, LangChain   
+- 버전 및 이슈 관리 : Github, Github Issues, Github Project, Git-flow   
+- 협업 툴 : Notion   
+- Infra : GCP, Git, Docker, Jenkins   
+- 디자인 : Figma   
 
 <br>
 
 ## 기술 스택
 
-#### FE ####
+### FE ###
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
-#### BE #### 
+### BE ###
 <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring%20data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
-
-#### AI ####
+### AI ###
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Langchain-teal">
-
-#### Infra ####
+### Infra ###
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
 &nbsp;
 ### 🔨  Tools 🔨 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
@@ -75,7 +72,7 @@ Test PW : 12
 <br>
 
 ## Flutter
-  - Flutter는 위젯기반 프론트 프레임워크로서 강력한 생산성을 제공합니다. 위젯을 다양한 방식으로 구현하여 쌓는 방식은 프론트를 많이 해보지 않은 초보자들도 충분히 해볼만 하다고 생각하여 사용했습니다. 또한 flutter.dev에 있는 다양한 종류의 라이브러리는 컴퓨터 비전이나 AI등 다양한 기능들을 구현해놓아 웹,앱밖에 공부하지 않은 개발자들도 충분히 사용할 수 있어 채택하였습니다.
+ Flutter는 위젯기반 프론트 프레임워크로서 강력한 생산성을 제공합니다. 다양하게 컨포넌트를 구현하여 개발할 수 있는 만큼 효율적으로 개발할 수 있을 것이라 생각하였습니다. 또한 flutter.dev에 있는 다양한 종류의 라이브러리는 컴퓨터 비전이나 AI등 다양한 기능들을 구현해놓아 웹,앱밖에 공부하지 않은 개발자들도 충분히 사용할 수 있어 채택하였습니다.
 
 ## JPA
   -  JPA는 데이터베이스 벤더에 종속되지 않기 때문에 다양한 데이터베이스로 쉽게 전환할 수 있는 유연성을 제공합니다. 캐시 메커니즘을 통한 성능 최적화가 가능하며, 복잡한 쿼리를 쉽게 작성할 수 있는 JPQL (Java Persistence Query Language)을 지원합니다. 따라서, JPA는 데이터 접근 계층을 단순화하고, 개발 시간을 단축시키며, 코드의 가독성과 유지보수성을 높이기 위해 사용했습니다.
