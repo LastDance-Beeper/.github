@@ -20,8 +20,6 @@
 
 Last Dance
  
-Test ID : 12
-Test PW : 12
 
 <br>
 
