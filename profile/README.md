@@ -39,13 +39,13 @@ Test PW : 12
 
 ## 1. 개발 환경
 <br>
-- Front-End : Flutter    
-- Back-End : Spring Boot, JPA, API 개발    
-- AI : FastAPI, LangChain    
-- 버전 및 이슈 관리 : Github, Github Issues, Github Project, Git-flow    
-- 협업 툴 : Notion    
-- Infra : GCP, Git, Docker, Jenkins    
-- 디자인 : Figma    
+- Front-End : Flutter<br>
+- Back-End : Spring Boot, JPA, API 개발<br>
+- AI : FastAPI, LangChain<br>
+- 버전 및 이슈 관리 : Github, Github Issues, Github Project, Git-flow<br>
+- 협업 툴 : Notion<br>
+- Infra : GCP, Git, Docker, Jenkins<br>
+- 디자인 : Figma<br>
 
 <br>
 
