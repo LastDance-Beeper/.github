@@ -25,7 +25,7 @@ Test PW : 12
 
 | **문지혜** | **이기정** | **이주현** | **정은혁** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars2.githubusercontent.com/u/67064571?v=4?s=100" height=150 width=150 alt="Back-End"/> <br/> @](https://github.com/EunHyeokJung) | [<img width=150 height=150 alt="스크린샷 2024-08-13 오후 5 55 32" src="https://github.com/user-attachments/assets/e175d555-a463-47e7-8edb-be2c4c991e12" alt="AI / Front-End"/> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://avatars.githubusercontent.com/u/127174197?s=400&v=4" height=150 width=150 alt="Back-End"/> <br/> @heejiyang](https://github.com/ImitationProgramer) | [<img src="https://avatars.githubusercontent.com/u/69712631?v=4" height=150 width=150 alt="Front-End"/> <br/> @journey-ji](https://github.com/journey-ji) |
+| [<img src="https://avatars2.githubusercontent.com/u/67064571?v=4?s=100" height=150 width=150 alt="Back-End"/> <br/> @Jihye Moon](https://github.com/Dev-JihyeMoon) | [<img width=150 height=150 alt="스크린샷 2024-08-13 오후 5 55 32" src="https://github.com/user-attachments/assets/e175d555-a463-47e7-8edb-be2c4c991e12" alt="AI / Front-End"/> <br/> @이기정](https://github.com/a8534751) | [<img src="https://avatars.githubusercontent.com/u/127174197?s=400&v=4" height=150 width=150 alt="Back-End"/> <br/> @ImitationProgramer](https://github.com/ImitationProgramer) | [<img src="https://avatars.githubusercontent.com/u/69712631?v=4" height=150 width=150 alt="Front-End"/> <br/> @EunHyeokJung](https://github.com/EunHyeokJung) |
 
 </div>
 
