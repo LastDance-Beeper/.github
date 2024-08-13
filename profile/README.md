@@ -1,16 +1,7 @@
 #  👋 시니어 스마트 도우미앱 Beeper
 
-<img width="700" height="700" alt="스크린샷 2024-08-14 오전 1 05 35" src="https://github.com/user-attachments/assets/366abf88-85c9-40e7-9454-3ba24f6f3fca">
 
 
-# Team    
-
-Last Dance
- 
-Test ID : 12
-Test PW : 12
-
-<br>
 
 # Beeper
 어떻게 하는지 모르시겠다고요? 무엇이든 물어보세요!
@@ -22,6 +13,15 @@ Test PW : 12
 - 모르는 것이 있다면 음성 인식 버튼 하나로 질문을 할 수 있습니다.
 - AI로 요약된 내용은 도우미들의 키워드에 맞춰서 알림이 전달됩니다.
 - 도우미 분들은 화상채팅을 통해 시니어 분들의 궁금증을 해결해드리고 마일리지를 적립하게 됩니다.
+
+<br>
+
+# Team    
+
+Last Dance
+ 
+Test ID : 12
+Test PW : 12
 
 <br>
 
@@ -51,8 +51,7 @@ Test PW : 12
 ## 기술 스택
 
 ### FE ###
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-FFFFFF?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 
 ### BE ###
@@ -61,10 +60,10 @@ Test PW : 12
 ### AI ###
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Langchain-teal">
 ### Infra ###
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 &nbsp;
 ### 🔨  Tools 🔨 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
 
 <br>
 
