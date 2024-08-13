@@ -3,8 +3,7 @@
 # Team    
 
 Last Dance
-
-배포 URL : 
+ 
 Test ID : 12
 Test PW : 12
 
@@ -12,7 +11,7 @@ Test PW : 12
 
 # Beeper
 어떻게 하는지 모르시겠다고요? 무엇이든 물어보세요!
-모르는 것이 있으면 
+모르는 것이 있으면 무엇이든 저희 학생들이 알려드립니다!
 
 ## 프로젝트 소개
 
@@ -71,11 +70,13 @@ Test PW : 12
 
 ## 2. 채택한 개발 기술
 <br>
+
 ## Flutter
-  -
+  - 
 
 ## JPA
-  - 
+  -  JPA는 데이터베이스 벤더에 종속되지 않기 때문에 다양한 데이터베이스로 쉽게 전환할 수 있는 유연성을 제공합니다. 캐시 메커니즘을 통한 성능 최적화가 가능하며, 복잡한 쿼리를 쉽게 작성할 수 있는 JPQL (Java Persistence Query Language)을 지원합니다. 따라서, JPA는 데이터 접근 계층을 단순화하고, 개발 시간을 단축시키며, 코드의 가독성과 유지보수성을 높이기 위해 사용했습니다.
+  -  Repository 접근을 이미 만들진 메소드를 통해 가능하다는 점에서도 선택을 하게 되었습니다.
   
 ## LangChain
   -
@@ -94,20 +95,25 @@ Test PW : 12
 <br>
 
 😎문지혜
-  -
-  -
+  - Back-End Develop
+  - 
 
 🫅🏼이기정(팀장)
-  -
-  -
+  - UI 
+  - AI
+    -LangChain을 사용한 키워드 최적화 기능 구현
+    -Speak to Text를 사용한  ~
 
 🥔이주현
-  -
-  -
+  - Back-End Develop
+    - firebase 기반 개발 진행
+    - webRTC 사용을 위한 웹 소캣 개발 진행
+    - ERD 개발 진행
+  - README 등 소개 파일 및 발표 피피티 준비
   
 🦝정은혁
-  -
-  -
+  - UI
+  - 
 
 <br>
 
@@ -130,11 +136,15 @@ Test PW : 12
 
 ## ERD
 
+<img width="826" alt="스크린샷 2024-08-13 오후 11 03 08" src="https://github.com/user-attachments/assets/77e3f658-6d34-406d-8172-2c59a2e26671">
+
 <br>
 
 ## 폴더 구조
 
 <details>
   <summary>Front</summary>
-  
+</details>
+<details>
+  <summary>Back</summary>
 </details>
