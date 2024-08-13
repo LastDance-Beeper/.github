@@ -10,7 +10,7 @@ Test PW : 12
 
 <br>
 
-## (1) 프로젝트 소개
+## 프로젝트 소개
 
 - Beeper는 시니어분들을 위해 언제 어디서나 궁금증을 해결할 수 있도록 도움을 주는 도우미 앱 입니다.
 - 모르는 것이 있다면 음성 인식 버튼 하나로 질문을 할 수 있습니다.
@@ -19,7 +19,7 @@ Test PW : 12
 
 <br>
 
-## (2) 팀원 소개
+## 팀원 소개
 
 <div align="center">
 
@@ -31,31 +31,17 @@ Test PW : 12
 
 <br>
 
-## (1) Git Flow
-master : 최종 배포되는 브랜치   
-develop : 개발을 위한 브랜치   
-feature : 각각의 개발자가 기능을 개발하는 브랜치   
-release : develop에서 master로 Merge 전에 품질검사를 진행하는 브랜치    
-hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
+## 1. 개발 환경
+<br>
+- Front-End : Flutter
+- Back-End : Spring Boot, JPA, API 개발
+- AI : FastAPI, LangChain
+- 버전 및 이슈 관리 : Github, Github Issues, Github Project, Git-flow
+- 협업 툴 : Notion
+- Infra : GCP, Git, Docker, Jenkins
+- 디자인 : Figma
 
-## (2) Commit Message Rules
-- Add: 파일 추가
-- Feat: 새로운 기능 추가
-- Fix: 버그 수정
-- Docs: 문서 수정
-- Style: 코드 formatting, 세미콜론 누락, 코드 자체의 변경이 없는 경우
-- Refactor: 코드 리팩토링
-- Test: 테스트 코드, 리팩토링 테스트 코드 추가
-- Chore: 패키지 매니저 수정, 그 외 기타 수정 
-  - ex) .gitignore, README ... 
-- Design: CSS 등 사용자 UI 디자인 변경 
-- Comment: 필요한 주석 추가 및 변경
-- Rename: 파일 또는 폴더 명의 수정 혹은 위치 변경
-- Remove: 파일 삭제
-- !BREAKING CHANGE: API의 대대적인 변경
-- !HOTFIX: 긴급한 버그 수정
-
-예시 -> Fix: 북마크 테스트 수정
+<br>
 
 ## 기술 스택
 
@@ -75,3 +61,77 @@ hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
 &nbsp;
 ### 🔨  Tools 🔨 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+
+<br>
+
+
+## 2. 채택한 개발 기술과 브랜치 전략
+<br>
+
+## Flutter
+  -
+
+## JPA
+  -
+  
+## LangChain
+  -
+
+## 3. 브랜치 전략
+- Git-flow 전략을 기반으로 main, develop 브랜치와 feature, release, hotfix 보조 브랜치를 운용했습니다.
+  - main 브랜치는 배포 단계에서만 사용하는 브랜치
+  - develop 브랜치는 개발 단계에서 git-flow의 master 역할을 하는 브랜치(merge)
+  - feature 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 삭제
+  - release 브랜치는 develop에서 master로 merge하기 전에 품질 검사를 진행하는 브랜치
+  - hotfix 브랜치는 출시 버전에서 발생한 버그를 수정하는 브랜치
+  
+<br>
+
+## 4. 역할 분담
+<br>
+
+😎문지혜
+  -
+  -
+
+🫅🏼이기정(팀장)
+  -
+  -
+
+🥔이주현
+  -
+  -
+  
+🦝정은혁
+  -
+  -
+
+<br>
+
+## ✨️️주요 기능
+1. 간편한 질문 방법
+2. 재빠른 답변 시간
+3. 질문자와 답변자 모두 만족하는 상부상조 시스템
+
+## 🖥️ 서비스 화면
+### 로그인 화면
+
+### 음성 인식 화면
+
+### 화상 채팅 화면
+
+### 대시보드(도우미)
+
+### 대시보드(시니어)
+
+
+## ERD
+
+<br>
+
+## 폴더 구조
+
+<details>
+  <summary>Front</summary>
+  
+</details>
