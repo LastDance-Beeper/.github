@@ -56,9 +56,13 @@ Last Dance
     - ERD 개발 진행
   - README 등 소개 파일 및 발표 피피티 준비
   
-🦝정은혁
-  - UI
-  - 
+🧐정은혁
+  - 기획 & Front-end developer
+  - 어르신도 사용하기 편한 UI/UX 만들기!
+  - webRTC 화상통화 개발
+  - Flutter로 전체 페이지 제작
+  - Build with AI! 🤖
+  - 발표자!
 
 <br>
 
@@ -70,6 +74,7 @@ Last Dance
 - 협업 툴 : Notion<br>
 - Infra : GCP, Git, Docker, Jenkins<br>
 - 디자인 : Figma<br>
+- Build with AI! Claude 3.5 sonnet, ChatGPT 4.0o
 
 <br>
 
