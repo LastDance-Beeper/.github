@@ -152,12 +152,13 @@ Last Dance
 ![KakaoTalk_Video_2024-08-14-05-15-52](https://github.com/user-attachments/assets/7b6e93a4-a6fb-4fb1-afac-447f44ee5aac)
 
 ### 음성 인식 화면
+![KakaoTalk_Video_2024-08-14-05-15-52-2](https://github.com/user-attachments/assets/86a4d962-4368-4e62-9ea8-4b29d7172656)
 
 ### 화상 채팅 화면
+![KakaoTalk_Video_2024-08-14-05-15-52-4](https://github.com/user-attachments/assets/4e931e24-3ac3-4867-8f0a-5bb2f9cbba3d)
 
 ### 대시보드(도우미)
-
-### 대시보드(시니어)
+![KakaoTalk_Video_2024-08-14-05-15-52-5](https://github.com/user-attachments/assets/c600194d-a62c-497d-a51c-40ab4ccc7fae)
 
 
 ## ERD
