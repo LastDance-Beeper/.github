@@ -149,6 +149,7 @@ Last Dance
 
 ## 🖥️ 서비스 화면
 ### 로그인 화면
+![KakaoTalk_Video_2024-08-14-05-15-52](https://github.com/user-attachments/assets/7b6e93a4-a6fb-4fb1-afac-447f44ee5aac)
 
 ### 음성 인식 화면
 
