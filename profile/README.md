@@ -1,7 +1,35 @@
-#  👋
+#  👋 시니어 스마트 도우미앱 Beeper
 
-# 1. Team    
-Last Dance Team 
+# Team    
+
+Last Dance
+
+배포 URL : 
+Test ID : 12
+Test PW : 12
+
+<br>
+
+## (1) 프로젝트 소개
+
+- Beeper는 시니어분들을 위해 언제 어디서나 궁금증을 해결할 수 있도록 도움을 주는 도우미 앱 입니다.
+- 모르는 것이 있다면 음성 인식 버튼 하나로 질문을 할 수 있습니다.
+- AI로 요약된 내용은 도우미들의 키워드에 맞춰서 알림이 전달됩니다.
+- 도우미 분들은 화상채팅을 통해 시니어 분들의 궁금증을 해결해드리고 마일리지를 적립하게 됩니다.
+
+<br>
+
+## (2) 팀원 소개
+
+<div align="center">
+
+| **문지혜** | **이기정** | **이주현** | **정은혁** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars2.githubusercontent.com/u/67064571?v=4?s=100" height=150 width=150 alt="Back-End"/> <br/> @](https://github.com/EunHyeokJung) | [<img width=150 height=150 alt="스크린샷 2024-08-13 오후 5 55 32" src="https://github.com/user-attachments/assets/e175d555-a463-47e7-8edb-be2c4c991e12" alt="AI / Front-End"/> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://avatars.githubusercontent.com/u/127174197?s=400&v=4" height=150 width=150 alt="Back-End"/> <br/> @heejiyang](https://github.com/ImitationProgramer) | [<img src="https://avatars.githubusercontent.com/u/69712631?v=4" height=150 width=150 alt="Front-End"/> <br/> @journey-ji](https://github.com/journey-ji) |
+
+</div>
+
+<br>
 
 ## (1) Git Flow
 master : 최종 배포되는 브랜치   
