@@ -38,7 +38,6 @@ Test PW : 12
 <br>
 
 ## 1. 개발 환경
-<br>
 - Front-End : Flutter<br>
 - Back-End : Spring Boot, JPA, API 개발<br>
 - AI : FastAPI, LangChain<br>
