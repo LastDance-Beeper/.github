@@ -37,6 +37,33 @@ Test PW : 12
 
 <br>
 
+## 역할 분담
+<br>
+
+😎문지혜
+  - Back-End Develop
+  - 
+
+🫅🏼이기정(팀장)
+  - UI 
+  - AI
+    - LangChain을 사용한 키워드 최적화 기능 구현
+    - Speak to Text,LLM을 이용한 녹음본의 요약정리(Whisper, Cloverspeech, gpt-4o)
+    - AI API개발
+
+🥔이주현
+  - Back-End Develop
+    - firebase 기반 개발 진행
+    - webRTC 사용을 위한 웹 소캣 개발 진행
+    - ERD 개발 진행
+  - README 등 소개 파일 및 발표 피피티 준비
+  
+🦝정은혁
+  - UI
+  - 
+
+<br>
+
 ## 1. 개발 환경
 - Front-End : Flutter<br>
 - Back-End : Spring Boot, JPA, API 개발<br>
@@ -63,7 +90,7 @@ Test PW : 12
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 &nbsp;
 ### 🔨  Tools 🔨 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
 
 <br>
 
@@ -72,11 +99,31 @@ Test PW : 12
 <br>
 
 ## Flutter
- Flutter는 위젯기반 프론트 프레임워크로서 강력한 생산성을 제공합니다. 다양하게 컨포넌트를 구현하여 개발할 수 있는 만큼 효율적으로 개발할 수 있을 것이라 생각하였습니다. 또한 flutter.dev에 있는 다양한 종류의 라이브러리는 컴퓨터 비전이나 AI등 다양한 기능들을 구현해놓아 웹,앱밖에 공부하지 않은 개발자들도 충분히 사용할 수 있어 채택하였습니다.
+
+ - 첫째, Flutter는 위젯 기반 프레임워크로서 강력한 생산성을 제공합니다. 이를 통해 개발자는 재사용 가능한 컴포넌트를 쉽게 만들고 유지보수할 수 있습니다. 위젯 시스템은 직관적이고 일관성이 있어, 한 번 배워두면 다양한 UI 요소를 빠르게 구현할 수 있습니다.
+
+ - 둘째, Flutter는 단일 코드베이스로 iOS와 Android 두 플랫폼에서 네이티브 수준의 성능을 제공하는 앱을 개발할 수 있습니다. 이는 개발 시간과 비용을 크게 절감해주며, 동시에 두 플랫폼에서 일관된 사용자 경험을 제공할 수 있게 합니다.
+
+ - 셋째, Flutter는 다양한 라이브러리와 패키지를 통해 컴퓨터 비전, AI 등의 복잡한 기능도 쉽게 구현할 수 있습니다. 예를 들어, flutter.dev에 있는 라이브러리들은 이미지 인식, 자연어 처리 등 고급 기능을 지원해주기 때문에, 웹과 앱만을 공부한 개발자들도 충분히 활용할 수 있습니다. 이는 개발자의 학습 곡선을 완화시키고, 프로젝트의 기술적 범위를 확장하는 데 도움을 줍니다.
+
+ - 넷째, Flutter의 Hot Reload 기능은 개발 생산성을 극대화합니다. 코드 변경 사항을 즉시 반영하여 UI를 실시간으로 확인할 수 있기 때문에, 개발 속도가 빨라지고 디버깅이 용이해집니다.
+
+ - 다섯째, Flutter 커뮤니티는 매우 활발하며, 방대한 양의 문서와 예제 코드가 제공되어 있어 개발 중에 직면하는 문제를 빠르게 해결할 수 있습니다. 이는 개발자의 작업 효율성을 높이고, 프로젝트의 안정성을 보장하는 데 큰 도움이 됩니다.
+
 
 ## JPA
-  -  JPA는 데이터베이스 벤더에 종속되지 않기 때문에 다양한 데이터베이스로 쉽게 전환할 수 있는 유연성을 제공합니다. 캐시 메커니즘을 통한 성능 최적화가 가능하며, 복잡한 쿼리를 쉽게 작성할 수 있는 JPQL (Java Persistence Query Language)을 지원합니다. 따라서, JPA는 데이터 접근 계층을 단순화하고, 개발 시간을 단축시키며, 코드의 가독성과 유지보수성을 높이기 위해 사용했습니다.
-  -  Repository 접근을 이미 만들진 메소드를 통해 가능하다는 점에서도 선택을 하게 되었습니다.
+ - 첫째, JPA는 객체 관계 매핑(ORM)을 통해 데이터베이스와의 상호 작용을 단순화합니다. 이를 통해 개발자는 데이터베이스의 테이블을 직접 다루지 않고, 객체를 통해 데이터를 조작할 수 있습니다. 이는 코드의 가독성을 높이고, 유지보수를 쉽게 합니다.
+
+ - 둘째, JPA는 데이터베이스 독립성을 제공합니다. 즉, 특정 데이터베이스에 종속되지 않고, 다양한 데이터베이스 시스템(MySQL, PostgreSQL, Oracle 등)에서 사용할 수 있습니다. 이는 데이터베이스 변경 시에도 애플리케이션 코드의 수정이 최소화되도록 합니다.
+
+ - 셋째, JPA는 강력한 쿼리 언어인 JPQL(Java Persistence Query Language)을 제공합니다. JPQL은 객체지향적인 문법을 사용하여 복잡한 쿼리를 작성할 수 있게 해주며, SQL에 비해 더 간결하고 이해하기 쉽습니다. 이를 통해 개발자는 효율적으로 데이터 검색 및 조작을 수행할 수 있습니다.
+
+ - 넷째, JPA는 트랜잭션 관리를 자동으로 처리해줍니다. 이를 통해 데이터 일관성을 유지하고, 여러 데이터 조작 작업을 하나의 논리적 단위로 묶어 원자성을 보장할 수 있습니다. 이는 데이터 무결성을 보호하는 데 중요한 역할을 합니다.
+
+ - 다섯째, JPA는 강력한 캐싱 메커니즘을 제공합니다. 이는 반복적인 데이터베이스 접근을 줄여 애플리케이션 성능을 향상시키고, 응답 속도를 빠르게 합니다. 1차 캐시와 2차 캐시를 통해 효율적인 데이터 관리를 할 수 있습니다.
+
+ - 여섯째, JPA는 대규모 커뮤니티와 광범위한 문서화가 되어 있어, 개발 중 발생하는 문제를 해결하는 데 큰 도움이 됩니다. 다양한 예제 코드와 가이드가 제공되어 있어, 학습과 적용이 용이합니다.
+
   
 ## LangChain
   - 랭체인은 벡터DB 특유의 벡터기반 검색방식이 특정 문자열이나 키워드를 서칭,추출에 특화되어있어 사용했습니다. 특히 conversation함수의 자문자답방식은 기존의 프롬프트와는 달리 모든 프롬프트가 랭체인내 저장되어있는 데이터에 근거하기에
@@ -90,33 +137,6 @@ Test PW : 12
   - release 브랜치는 develop에서 master로 merge하기 전에 품질 검사를 진행하는 브랜치
   - hotfix 브랜치는 출시 버전에서 발생한 버그를 수정하는 브랜치
   
-<br>
-
-## 4. 역할 분담
-<br>
-
-😎문지혜
-  - Back-End Develop
-  - 
-
-🫅🏼이기정(팀장)
-  - UI 
-  - AI
-    - LangChain을 사용한 키워드 최적화 기능 구현
-    - Speak to Text,LLM을 이용한 녹음본의 요약정리(Whisper, Cloverspeech, gpt-4o)
-    - AI API개발
-
-🥔이주현
-  - Back-End Develop
-    - firebase 기반 개발 진행
-    - webRTC 사용을 위한 웹 소캣 개발 진행
-    - ERD 개발 진행
-  - README 등 소개 파일 및 발표 피피티 준비
-  
-🦝정은혁
-  - UI
-  - 
-
 <br>
 
 ## ✨️️주요 기능
