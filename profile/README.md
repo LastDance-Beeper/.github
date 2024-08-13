@@ -1,5 +1,6 @@
 #  👋 시니어 스마트 도우미앱 Beeper
 
+<img width="523" alt="스크린샷 2024-08-14 오전 1 05 35" src="https://github.com/user-attachments/assets/366abf88-85c9-40e7-9454-3ba24f6f3fca">
 # Team    
 
 Last Dance
